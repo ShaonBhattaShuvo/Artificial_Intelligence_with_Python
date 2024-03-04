@@ -6,15 +6,20 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
 
 ### 1. Introduction to Python Programming
 - **Python Basics:**
-  - Data types (integers, floats, strings, booleans)
-  - Variables and basic I/O operations
-  - Basic operations (arithmetic, assignment, comparison, logical)
-- **Control Structures:**
-  - Conditional statements (if, elif, else)
-  - Loops (for, while)
-  - Break, continue, and pass statements
+  - ** Variables:  Data types (integers, floats, strings, booleans) and basic I/O operations
+                  Basic operations (arithmetic, assignment, comparison, logical)
 
-### 2. Functions and Modules
+   - ** List: Comprehensions, slicing, and other data structure operations
+             Example Problems to Practice
+  - ** Touple
+  - ** Sets
+  - ** Dictionaries
+
+  - ** Control Structures: Conditional statements (if, elif, else)
+                           Loops (for, while)
+                           Break, continue, and pass statements
+
+### 2.Functions and Modules
 - **Defining and Calling Functions:**
   - Function arguments and return values
   - Scope and lifetime of variables
@@ -24,8 +29,7 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
 
 ### 3. Data Handling (Will Be Covered)
 - **Python Data Structures:**
-  - Lists, tuples, sets, dictionaries
-  - Comprehensions, slicing, and other data structure operations
+  
 - **File Handling:**
   - Reading from and writing to files (text files, CSVs)
   - Basic file operations (open, read, write, close)
