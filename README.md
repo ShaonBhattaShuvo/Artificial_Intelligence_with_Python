@@ -25,7 +25,7 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
 
 ### 2. Data Handling (Will Be Covered)
 - **Python Data Structures:**
-    -- List, Tuple, Set, Dictionary already covered in Basic section.
+  - List, Tuple, Set, Dictionary already covered in Python Basic section.
 
 - **File Handling:**
   - Reading from and writing to files (text files, CSVs)
@@ -86,5 +86,5 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
 
 ## Contributing
 
-We welcome contributions from the community, whether it's improving the documentation, adding more examples, or extending the tutorial sections. Please feel free to fork the repository, make your changes, and submit a pull request.
+I welcome contributions from the community, whether it's improving the documentation, adding more examples, or extending the tutorial sections. Please feel free to fork the repository, make your changes, and submit a pull request.
 
