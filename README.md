@@ -9,8 +9,11 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
   - ** Variables:  Data types (integers, floats, strings, booleans) and basic I/O operations
                   Basic operations (arithmetic, assignment, comparison, logical)
 
+  - ** Functions and Modules: Defining and Calling Functions, Function arguments and return values, Scope and lifetime of variables, Creatring and Importing standard modules
+
    - ** List: Comprehensions, slicing, and other data structure operations
              Example Problems to Practice
+
   - ** Touple
   - ** Sets
   - ** Dictionaries
@@ -19,22 +22,16 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
                            Loops (for, while)
                            Break, continue, and pass statements
 
-### 2.Functions and Modules
-- **Defining and Calling Functions:**
-  - Function arguments and return values
-  - Scope and lifetime of variables
-- **Working with Modules:**
-  - Importing standard modules (math, datetime)
-  - Exploring and using third-party libraries relevant to data science (numpy, scipy)
 
-### 3. Data Handling (Will Be Covered)
+### 2. Data Handling (Will Be Covered)
 - **Python Data Structures:**
-  
+    -- List, Tuple, Set, Dictionary already covered in Basic section.
+
 - **File Handling:**
   - Reading from and writing to files (text files, CSVs)
   - Basic file operations (open, read, write, close)
 
-### 4. Object-Oriented Programming (OOP) (Will Be Covered)
+### 3. Object-Oriented Programming (OOP) (Will Be Covered)
 - **Class and Object Basics:**
   - Defining classes and creating objects
   - Instance methods, attributes, constructors
@@ -42,7 +39,7 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
   - Understanding inheritance hierarchies
   - Overriding methods and polymorphic behavior
 
-### 5. Advanced Python Concepts (Will Be Covered)
+### 4. Advanced Python Concepts (Will Be Covered)
 - **Exception Handling:**
   - Try-except blocks
   - Raising exceptions
@@ -50,7 +47,7 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
   - Creating and using decorators
   - Understanding generators and iterators
 
-### 6. Introduction to NumPy and Pandas (Will Be Covered)
+### 5. Introduction to NumPy and Pandas (Will Be Covered)
 - **NumPy:**
   - Arrays creation, attributes, indexing, and slicing
   - Array operations, broadcasting, and vectorization
@@ -58,13 +55,13 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
   - DataFrame and Series objects
   - Reading data, data selection, filtering, and aggregation
 
-### 7. Data Visualization (Will Be Covered)
+### 6. Data Visualization (Will Be Covered)
 - **Introduction to Matplotlib and Seaborn:**
   - Basic plotting (line, scatter, bar plots)
   - Advanced plots (histograms, box plots, pair plots)
   - Customizing plots (labels, legends, colors)
 
-### 8. Basics of Machine Learning with scikit-learn (Will Be Covered)
+### 7. Basics of Machine Learning with scikit-learn (Will Be Covered)
 - **Understanding ML Fundamentals:**
   - Supervised vs unsupervised learning
   - Model training and evaluation
@@ -72,7 +69,7 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
   - Linear regression, logistic regression
   - K-means clustering, decision trees
 
-### 9. Introduction to Deep Learning (Will Be Covered)
+### 8. Introduction to Deep Learning (Will Be Covered)
 - **Understanding Neural Networks:**
   - Perceptrons, activation functions
   - Neural network architecture
@@ -80,7 +77,7 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
   - Building and training simple models
   - Understanding loss functions and optimizers
 
-### 10. Real-world Applications and Projects (Will Be Covered)
+### 9. Real-world Applications and Projects (Will Be Covered)
 - **Applying Python in Data Analysis:**
   - Real-world dataset analysis and insights extraction
 - **Basic ML and DL Projects:**
