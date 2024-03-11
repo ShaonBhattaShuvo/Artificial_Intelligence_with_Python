@@ -22,8 +22,15 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
                            Loops (for, while)
                            Break, continue, and pass statements
 
+### 2. Object-Oriented Programming (OOP) 
+- **Class and Object Basics:**
+  - Defining classes and creating objects
+  - Instance methods, attributes, constructors
+- **Inheritance and Polymorphism:**
+  - Understanding inheritance hierarchies
+  - Overriding methods and polymorphic behavior
 
-### 2. Data Handling (Will Be Covered)
+### 3. Data Handling (Will Be Covered)
 - **Python Data Structures:**
   - List, Tuple, Set, Dictionary already covered in Python Basic section.
 
@@ -31,13 +38,6 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
   - Reading from and writing to files (text files, CSVs)
   - Basic file operations (open, read, write, close)
 
-### 3. Object-Oriented Programming (OOP) (Will Be Covered)
-- **Class and Object Basics:**
-  - Defining classes and creating objects
-  - Instance methods, attributes, constructors
-- **Inheritance and Polymorphism:**
-  - Understanding inheritance hierarchies
-  - Overriding methods and polymorphic behavior
 
 ### 4. Advanced Python Concepts (Will Be Covered)
 - **Exception Handling:**
@@ -47,7 +47,7 @@ This tutorial provides a comprehensive introduction to Python, focusing on its a
   - Creating and using decorators
   - Understanding generators and iterators
 
-### 5. Introduction to NumPy and Pandas (Will Be Covered)
+### 5. NumPy and Pandas 
 - **NumPy:**
   - Arrays creation, attributes, indexing, and slicing
   - Array operations, broadcasting, and vectorization
